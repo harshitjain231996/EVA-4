@@ -20,5 +20,5 @@ The model reached a test accuracy of 99.46% after 15 epochs.
 
 ## Team members
 * Sanjeev V Raichur
-* Harshith Jain
+* Harshit Jain
 * Prakash Upadhyay
