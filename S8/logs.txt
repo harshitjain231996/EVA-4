@@ -1,0 +1,78 @@
+Epoch= 0 Loss=1.1190284490585327 Batch_id=781 Accuracy=51.17: 100%|██████████| 782/782 [00:31<00:00, 25.16it/s]
+  0%|          | 0/782 [00:00<?, ?it/s]
+Validation set: Average loss: 0.0186, Accuracy: 6018/10000 (60.18%)
+
+Epoch= 1 Loss=1.1977609395980835 Batch_id=781 Accuracy=70.59: 100%|██████████| 782/782 [00:30<00:00, 25.30it/s]
+  0%|          | 0/782 [00:00<?, ?it/s]
+Validation set: Average loss: 0.0131, Accuracy: 7215/10000 (72.15%)
+
+Epoch= 2 Loss=0.6528202891349792 Batch_id=781 Accuracy=77.42: 100%|██████████| 782/782 [00:31<00:00, 24.86it/s]
+  0%|          | 0/782 [00:00<?, ?it/s]
+Validation set: Average loss: 0.0105, Accuracy: 7679/10000 (76.79%)
+
+Epoch= 3 Loss=0.5706709027290344 Batch_id=781 Accuracy=81.38: 100%|██████████| 782/782 [00:31<00:00, 24.94it/s]
+  0%|          | 0/782 [00:00<?, ?it/s]
+Validation set: Average loss: 0.0090, Accuracy: 8067/10000 (80.67%)
+
+Epoch= 4 Loss=0.3776920437812805 Batch_id=781 Accuracy=83.85: 100%|██████████| 782/782 [00:31<00:00, 24.75it/s]
+  0%|          | 0/782 [00:00<?, ?it/s]
+Validation set: Average loss: 0.0093, Accuracy: 8064/10000 (80.64%)
+
+Epoch= 5 Loss=0.42138001322746277 Batch_id=781 Accuracy=85.83: 100%|██████████| 782/782 [00:31<00:00, 25.18it/s]
+  0%|          | 0/782 [00:00<?, ?it/s]
+Validation set: Average loss: 0.0089, Accuracy: 8128/10000 (81.28%)
+
+Epoch= 6 Loss=0.19292986392974854 Batch_id=781 Accuracy=90.92: 100%|██████████| 782/782 [00:31<00:00, 24.92it/s]
+  0%|          | 0/782 [00:00<?, ?it/s]
+Validation set: Average loss: 0.0061, Accuracy: 8722/10000 (87.22%)
+
+Epoch= 7 Loss=0.4083402454853058 Batch_id=781 Accuracy=92.06: 100%|██████████| 782/782 [00:31<00:00, 24.98it/s]
+  0%|          | 0/782 [00:00<?, ?it/s]
+Validation set: Average loss: 0.0060, Accuracy: 8770/10000 (87.70%)
+
+Epoch= 8 Loss=0.2677847146987915 Batch_id=781 Accuracy=92.85: 100%|██████████| 782/782 [00:31<00:00, 25.16it/s]
+  0%|          | 0/782 [00:00<?, ?it/s]
+Validation set: Average loss: 0.0060, Accuracy: 8741/10000 (87.41%)
+
+Epoch= 9 Loss=0.1582305133342743 Batch_id=781 Accuracy=93.75: 100%|██████████| 782/782 [00:31<00:00, 24.93it/s]
+  0%|          | 0/782 [00:00<?, ?it/s]
+Validation set: Average loss: 0.0063, Accuracy: 8715/10000 (87.15%)
+
+Epoch= 10 Loss=0.02360674738883972 Batch_id=781 Accuracy=94.21: 100%|██████████| 782/782 [00:31<00:00, 24.78it/s]
+  0%|          | 0/782 [00:00<?, ?it/s]
+Validation set: Average loss: 0.0062, Accuracy: 8766/10000 (87.66%)
+
+Epoch= 11 Loss=0.4079885184764862 Batch_id=781 Accuracy=94.93: 100%|██████████| 782/782 [00:31<00:00, 24.82it/s]
+  0%|          | 0/782 [00:00<?, ?it/s]
+Validation set: Average loss: 0.0062, Accuracy: 8785/10000 (87.85%)
+
+Epoch= 12 Loss=0.09521973133087158 Batch_id=781 Accuracy=96.13: 100%|██████████| 782/782 [00:31<00:00, 24.90it/s]
+  0%|          | 0/782 [00:00<?, ?it/s]
+Validation set: Average loss: 0.0059, Accuracy: 8849/10000 (88.49%)
+
+Epoch= 13 Loss=0.211898535490036 Batch_id=781 Accuracy=96.59: 100%|██████████| 782/782 [00:31<00:00, 24.95it/s]
+  0%|          | 0/782 [00:00<?, ?it/s]
+Validation set: Average loss: 0.0061, Accuracy: 8840/10000 (88.40%)
+
+Epoch= 14 Loss=0.04571235179901123 Batch_id=781 Accuracy=96.72: 100%|██████████| 782/782 [00:31<00:00, 24.92it/s]
+  0%|          | 0/782 [00:00<?, ?it/s]
+Validation set: Average loss: 0.0060, Accuracy: 8849/10000 (88.49%)
+
+Epoch= 15 Loss=0.041316837072372437 Batch_id=781 Accuracy=96.90: 100%|██████████| 782/782 [00:31<00:00, 25.11it/s]
+  0%|          | 0/782 [00:00<?, ?it/s]
+Validation set: Average loss: 0.0061, Accuracy: 8839/10000 (88.39%)
+
+Epoch= 16 Loss=0.022265762090682983 Batch_id=781 Accuracy=97.07: 100%|██████████| 782/782 [00:30<00:00, 25.25it/s]
+  0%|          | 0/782 [00:00<?, ?it/s]
+Validation set: Average loss: 0.0061, Accuracy: 8844/10000 (88.44%)
+
+Epoch= 17 Loss=0.07058119773864746 Batch_id=781 Accuracy=97.08: 100%|██████████| 782/782 [00:31<00:00, 25.07it/s]
+  0%|          | 0/782 [00:00<?, ?it/s]
+Validation set: Average loss: 0.0061, Accuracy: 8818/10000 (88.18%)
+
+Epoch= 18 Loss=0.08175700902938843 Batch_id=781 Accuracy=97.40: 100%|██████████| 782/782 [00:31<00:00, 24.90it/s]
+  0%|          | 0/782 [00:00<?, ?it/s]
+Validation set: Average loss: 0.0061, Accuracy: 8831/10000 (88.31%)
+
+Epoch= 19 Loss=0.0755029022693634 Batch_id=781 Accuracy=97.51: 100%|██████████| 782/782 [00:31<00:00, 24.92it/s]
+Validation set: Average loss: 0.0062, Accuracy: 8843/10000 (88.43%)
