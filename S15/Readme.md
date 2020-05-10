@@ -82,12 +82,12 @@
 ## Foreground images
 ![](https://github.com/harshitjain231996/EVA-4/blob/master/S15/foreground.PNG)
 ## Foreground mask images
-![](https://github.com/harshitjain231996/EVA4/blob/master/S14-15/fg_mask.PNG)
+![](https://github.com/harshitjain231996/EVA-4/blob/master/S15/foreground.PNG)
 ## FG-BG Overlayed
-![](https://github.com/harshitjain231996/EVA4/blob/master/S14-15/fg_and_bg.PNG)
+![](https://github.com/harshitjain231996/EVA-4/blob/master/S15/fg_and_bg.PNG)
 ## FG-BG Mask
-![](https://github.com/harshitjain231996/EVA4/blob/master/S14-15/fg_bg_mask.PNG)
+![](https://github.com/harshitjain231996/EVA-4/blob/master/S15/fg_bg_mask.PNG)
 ## Depth
-![](https://github.com/harshitjain231996/EVA4/blob/master/S14-15/fg_bg_depth.PNG)
+![](https://github.com/harshitjain231996/EVA-4/blob/master/S15/fg_bg_depth.PNG)
 
 
