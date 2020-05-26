@@ -193,8 +193,7 @@ This model is trained for four different loss functions and their prediction res
 1. It is observed that comparitively loss for Depth Map is higher than that of Mask and it is obvious as depth have much more objects and its gradient to captures.
 2. Total loss is calculated as sum of square root losses. square root have a property that for values less than 1 i.e decimal values(betw 0 to 1), square root of lower values yield higher result compare to higher values
 doing so the loss ratio get reduce. even though total loss increases but loss ratio is reduces.
-3. Another approached is to consider weighted sum of the two loss to balance the differences.
-4. Alternalively we can try with different loss fucntion for Mask and Depth predictions.[Opps.. this is not tried in this excersise.. left for further experiment)
+3. Another approached is to consider weighted sum of the two loss to balance the differences
 
 ```
 class CustomLoss_SqrtSum():
