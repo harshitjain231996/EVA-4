@@ -18,13 +18,13 @@
 * For building of model we need four kind of images: 
   * Input images: bg images, fg_bg images, 
   * Target Images: fg_bg mask images, fg_bg_depth images 
-* For details on how dataset is created?, refer [(Link)](../assignment_A/)
+* For details on how dataset is created?, refer [(Link)](../S15/)
 
 Let's have quick summary of dataset and visulaization for each kind of images
 
 **Dataset statistics**
 
-Notebook: **EVAS15_dataset_statistic_updated.ipynb**[(Link)](EVAS15_dataset_statistic.ipynb):
+![i](https://i.imgur.com/490ss3Y.png)
 
 <p align="center"><img style="max-width:800px" src="../assignment_A/doc_images/dataset_statistics_updated.png" alt="Dataset statistics"></p>
 
