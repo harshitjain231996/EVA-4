@@ -26,8 +26,6 @@ Let's have quick summary of dataset and visulaization for each kind of images
 
 ![i](https://i.imgur.com/490ss3Y.png)
 
-<p align="center"><img style="max-width:800px" src="../assignment_A/doc_images/dataset_statistics_updated.png" alt="Dataset statistics"></p>
-
 ## Major Components (Contents)
 
 * Custom Dataset Class, DepthMapDataset.py[(Link)](utils/DepthMapDataset.py)
@@ -42,18 +40,18 @@ Let's have quick summary of dataset and visulaization for each kind of images
 * Training Tiny CNN model for different Loss function
   * Model Architecure used: DMNet_CNN.py [(Link)](models/depthmap/DMNet_CNN.py): 
   * This model is trained for four different loss functions and their prediction results and accuracy are compared.
-	- Solution-1: Loss: BCEwithLogitsLoss [(Link)](EVA4S15_Main_CNN_BCEWithLogitsLoss_ShortData.ipynb) or [(colab)](https://drive.google.com/open?id=1y7jSNUp3BBpJnTZnFTLRkqlZwne_Pm8_)
-	- Solution-2: Loss: SmoothL1Loss [(Link)](EVA4S15_Main_CNN_SmoothL1Loss_ShortData.ipynb) or [(colab)](https://drive.google.com/open?id=1WkFz5J5cC8i0LyXWYvjO3kS6WmUpUhcS) 
-	- Solution-3: Loss: MSELoss [(Link)](EVA4S15_Main_CNN_MSELoss_ShortData.ipynb) or [(colab)](https://drive.google.com/open?id=1RIvK500BJA9HcLoLCiOXsMDVifEQKpFP)
-	- Solution-4: Loss: SSIMLoss [(Link)](EVA4S15_Main_CNN_SSIMLoss_ShortData.ipynb) or [(colab)](https://drive.google.com/open?id=109tLuAUgpjjCrujgwUg6Fl8DbWJf8N7k)
-* Accuracy Calculation: EVA4S15_AccuracyCalculation [(Link)](EVA4S15_AccuracyCalculation.ipynb) or [(colab)](https://drive.google.com/open?id=19TcBdQNC-s62IIbJ9eC4ohHulxkPTPrS)
+	- Solution-1: Loss: BCEwithLogitsLoss [(Link)](EVA4S15_Main_CNN_BCEWithLogitsLoss_ShortData.ipynb) 
+	- Solution-2: Loss: SmoothL1Loss [(Link)](EVA4S15_Main_CNN_SmoothL1Loss_ShortData.ipynb) 
+	- Solution-3: Loss: MSELoss [(Link)](EVA4S15_Main_CNN_MSELoss_ShortData.ipynb) 
+	- Solution-4: Loss: SSIMLoss [(Link)](EVA4S15_Main_CNN_SSIMLoss_ShortData.ipynb)
+* Accuracy Calculation: EVA4S15_AccuracyCalculation [(Link)](EVA4S15_AccuracyCalculation.ipynb) 
 * Building Final model:
   * Model-1: Custom CNN Architecture: 
   	* Model Arch: DMNet_CNN_V1.py [(Link)](models/depthmap/DMNet_CNN_V1.py):
-	* Solution Notebook: EVA4S15_Main_CNN_V1_BCEWithLogitsLoss_400k.ipynb [(Link)](EVA4S15_Main_CNN_V1_BCEWithLogitsLoss_400k.ipynb) or [(colab)](https://drive.google.com/open?id=1sAyBMJSZx8lsTWjwxEyr8k0J5jz9F8WX)
+	* Solution Notebook: EVA4S15_Main_CNN_V1_BCEWithLogitsLoss_400k.ipynb [(Link)](EVA4S15_Main_CNN_V1_BCEWithLogitsLoss_400k.ipynb) 
   * Model-2: Custom Resnet Architecture 
 	* Model Arch: DMNet_Resnet.py [(Link)](models/depthmap/DMNet_Resnet.py):
-	* Solution notebook, EVA4S15_Main_Resnet_BCELogitsLoss_400k_Part2.ipynb [(Link)](EVA4S15_Main_Resnet_BCELogitsLoss_400k_Part2.ipynb) or [(colab)](https://drive.google.com/open?id=1nPkgWhLFLgYn2cPm3hmHNcxacaK9OrPK)
+	* Solution notebook, EVA4S15_Main_Resnet_BCELogitsLoss_400k_Part2.ipynb [(Link)](EVA4S15_Main_Resnet_BCELogitsLoss_400k_Part2.ipynb)
 * Deep dive on analysis of Resnet model trained on entire dataset 
   * Prediction results as traning progresses
   * LR Trend
@@ -62,7 +60,7 @@ Let's have quick summary of dataset and visulaization for each kind of images
   * Timing Profiling for training
   * How to speedup data loaded
   
-## Getting thing right, First Notebook? [(Link)](EVA4S15_Main_CNN_BCEWithLogitsLoss_ShortData.ipynb) or [(colab)](https://drive.google.com/open?id=1y7jSNUp3BBpJnTZnFTLRkqlZwne_Pm8_)
+## Getting thing right, First Notebook? [(Link)](EVA4S15_Main_CNN_BCEWithLogitsLoss_ShortData.ipynb)
 
 First notebook approach was to ensure all necessay component are in place and verifed with small dataset and tiny model.
 
